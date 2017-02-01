@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>resultsWindow</class>
+ <widget class="QWidget" name="resultsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>348</width>
+    <height>309</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Results</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>gibbon.jpg</normaloff>gibbon.jpg</iconset>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout">
+   <item>
+    <widget class="QTableWidget" name="tableWidget">
+     <property name="editTriggers">
+      <set>QAbstractItemView::NoEditTriggers</set>
+     </property>
+     <row>
+      <property name="text">
+       <string>Total path (cm):</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>Average velocity (m/s):</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>95% confidence ellipse (cm^2):</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>SD X (cm):</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>SD Y (cm):</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>RMS X (cm):</string>
+      </property>
+     </row>
+     <row>
+      <property name="text">
+       <string>RMS Y (cm):</string>
+      </property>
+     </row>
+     <column>
+      <property name="text">
+       <string>Parameters</string>
+      </property>
+     </column>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushButton">
+     <property name="text">
+      <string>Save</string>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="pushButton_2">
+     <property name="text">
+      <string>Cancel</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
