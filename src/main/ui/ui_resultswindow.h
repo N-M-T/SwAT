@@ -118,7 +118,7 @@ public:
         QTableWidgetItem *___qtablewidgetitem1 = tableWidget->verticalHeaderItem(0);
         ___qtablewidgetitem1->setText(QApplication::translate("resultsWindow", "Total path (cm):", 0));
         QTableWidgetItem *___qtablewidgetitem2 = tableWidget->verticalHeaderItem(1);
-        ___qtablewidgetitem2->setText(QApplication::translate("resultsWindow", "Average velocity (m/s):", 0));
+        ___qtablewidgetitem2->setText(QApplication::translate("resultsWindow", "Average velocity (cm/s):", 0));
         QTableWidgetItem *___qtablewidgetitem3 = tableWidget->verticalHeaderItem(2);
         ___qtablewidgetitem3->setText(QApplication::translate("resultsWindow", "95% confidence ellipse (cm^2):", 0));
         QTableWidgetItem *___qtablewidgetitem4 = tableWidget->verticalHeaderItem(3);
