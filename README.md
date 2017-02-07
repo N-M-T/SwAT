@@ -8,7 +8,7 @@ During one of my PhD investigations (http://bit.ly/2ctvrD0) I realised the softw
 
 ## Installation
 
-The SwAT can be downloaded pre-compiled for linux (Windows version available shortly) and run as a standalone application. There is no requirement for installation. Simply download the project as a .zip, extract to a desired location and run the executable found in the build folder. You may need to tick run as an exectuble under the permissions of the file. The current version has been compiled and tested on Ubuntu 16.04. Alternatively feel free to compile the source code on your own machine. To do this you will need git, qt5 and Eigen. Then type the following into a terminal:
+The SwAT can be downloaded pre-compiled for linux (Windows version available shortly) and run as a standalone application. There is no requirement for installation. Simply download the project as a .zip, extract to a desired location and run the executable found in the build folder. You may need to tick run as an executable under the permissions of the file. The current version has been compiled and tested on Ubuntu 16.04. Alternatively feel free to compile the source code on your own machine. To do this you will need git, qt5 and Eigen. Then type the following into a terminal:
 
 sudo git clone https://github.com/N-M-T/SwAT <br />
 cd SwAT/build/Linux <br />
