@@ -30,7 +30,7 @@
      </row>
      <row>
       <property name="text">
-       <string>Average velocity (m/s):</string>
+       <string>Average velocity (cm/s):</string>
       </property>
      </row>
      <row>
