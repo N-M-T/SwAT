@@ -25,13 +25,13 @@ The GUI was designed to be simple and intuitive. File > open will prompt the use
 
 Analyse > basic will provide commonly used postural sway parameters including RMS, SD, 95 % confidence ellipse area, total path and average velocity.  <br />
 
-![Alt text](/screenshots/Screenshot from 2017-02-07 14-21-15.png?raw=true "Optional Title") <br />
+![Alt text](/screenshots/Screenshot from 2017-02-07 15-27-55.png?raw=true "Optional Title") <br />
 
 Plot > Plot builder will plot the data in the medial/lateral, anterior/posterior, and resultant directions. <br />
 
 ![Alt text](/screenshots/Screenshot from 2017-02-07 14-34-11.png?raw=true "Optional Title") <br />
 
-Finally, there is an option to save both the results and the plots to file. <br />
+Finally, there is an option to save both the results and the plots to file. If you require a different outcome measure send me a request and I will attempt to add it to the program. <br />
 
 ## License
 
