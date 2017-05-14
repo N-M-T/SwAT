@@ -21,7 +21,8 @@ This will replace the pre-compiled static version already in the build folder wi
 
 The GUI was designed to be simple and intuitive. File > open will prompt the user to load a .csv file containing forceplatform data. After the file is selected the sampling frequency at which the data was collected (defaults to 100 Hz) needs to be selected. The raw data will then be displayed in the data viewer. Users can adjust the length of the data (in time), remove the mean of the data by ticking the detrend box, and apply a Butterworth filter. The Butterworth filter gives the option to select order and cuttoff frequencies. <br /> 
 
-![Alt text](/screenshots/Screenshot from 2017-02-07 14-24-54.png?raw=true "Optional Title") <br />
+!(/screenshots/Screenshot from 2017-02-07 14-24-54.png?raw=true "Optional Title") 
+Format: ![Alt Text](url) <br />
 
 Analyse > basic will provide commonly used postural sway parameters including RMS, SD, 95 % confidence ellipse area, total path and average velocity.  <br />
 
