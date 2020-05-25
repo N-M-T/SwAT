@@ -1,10 +1,10 @@
 ## Synopsis
 
-The Sway Analysis Toolkit (SwAT) is a simple GUI application allowing users to import and analyse postural sway data recorded with AMTI force platforms (Kistler and Bertec coming soon) in .csv format. It is built on C++ with Qt and makes use of the excellent Eigen and Biomechanical Toolkit (BTK) libraries.
+The Sway Analysis Toolkit (SwAT) is a simple GUI application allowing users to import and analyse postural sway data recorded with AMTI force platforms in .csv format. It is built on C++ with Qt and makes use of the excellent Eigen and Biomechanical Toolkit (BTK) libraries.
 
 ## Motivation
 
-During one of my PhD investigations (http://bit.ly/2ctvrD0) I realised the software which came with our AMTI forceplatform provided only a limited analysis of postural sway data. Although there are a wealth of libraries available in Python, none come with a free and open source graphical user interface (GUI). Hence I wrote the SwAT (credits to my PhD supervisor Theo Bampouras for the abbreviation: www.cumbria.ac.uk/activeageing).
+During one of my PhD investigations (http://bit.ly/2ctvrD0) I realised the software which came with our AMTI forceplatform provided only a limited analysis of postural sway data. Although there are a wealth of libraries available in Python, none come with a free and open source graphical user interface (GUI). Hence I wrote the SwAT (credits to my PhD supervisor Theo Bampouras for the abbreviation).
 
 ## Installation
 
